@@ -1,0 +1,19 @@
+PRESERVED GENERATION — START HERE
+
+This is the phone + Supabase build.
+
+DO NOT run npm commands.
+DO NOT look for server.js.
+DO NOT paste a Supabase service_role key into config.js.
+
+Next steps after Supabase project creation:
+1. Open supabase/schema.sql.
+2. Run it in Supabase SQL Editor.
+3. Create your Admin user in Supabase Authentication > Users.
+4. Add that user's UUID to public.admin_users using the SQL shown in README.md.
+5. Copy your Supabase Project URL and ANON/PUBLISHABLE key into config.js.
+6. Test the site in Spck Preview.
+7. Later publish the static folder on an HTTPS host for public use and event-day camera scanning.
+
+The original homepage wording, Bible verse and community guidelines are retained from
+the uploaded Preserved Generation v4 project.
